@@ -26,7 +26,8 @@ The objective of this report is to analyse the challenges faced by students duri
 
 ## Eligibility Criteria (CGPA and Branch) 
 Shown only for Entc Branch
-![image](https://github.com/user-attachments/assets/ec8ae7b5-348c-4741-8c15-c6f14a1761db)
+![image](https://github.com/user-attachments/assets/3cf78971-3260-4d79-8254-bd870d7f901d)
+
 
 
 
