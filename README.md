@@ -19,24 +19,16 @@ The objective of this report is to analyse the challenges faced by students duri
 •	Package Expectations: Students often face confusion about the salary packages offered by different companies. Some students may have unrealistic expectations, while others may feel disappointed with lower package offers compared to others.
 
 
+## Dashboard on Power BI
+![PICT_2_page-0001](https://github.com/user-attachments/assets/8457aad7-6caf-4e7c-bb3e-3e7a00342ec8)
+
+![PICT_2_page-0001](https://github.com/user-attachments/assets/c0fe2f79-6707-442d-9727-9bb311dfacab)
 
 
 
 
 
-## Eligibility Criteria (CGPA and Branch) 
-Shown only for Entc Branch
-![image](https://github.com/user-attachments/assets/3cf78971-3260-4d79-8254-bd870d7f901d)
 
-
-
-
-## Yearly Analysis :
-![image](https://github.com/user-attachments/assets/c7204907-e30a-428e-bca2-e3f14da6a34c)
-
-
-## Dashboard:
-![image](https://github.com/user-attachments/assets/5ece9a2f-7cc6-4f15-8b48-f49f4e22987c)
 
 
 
