@@ -24,6 +24,9 @@ The objective of this report is to analyse the challenges faced by students duri
 
 ![PICT_2_page-0002](https://github.com/user-attachments/assets/e3a2b3e0-7214-47e8-a2b8-94e9d5af3a10)
 
+![image](https://github.com/user-attachments/assets/f20ba35d-5c0b-4351-9561-654a1edc5bb2)
+
+
 
 
 
