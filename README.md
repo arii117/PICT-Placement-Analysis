@@ -22,7 +22,8 @@ The objective of this report is to analyse the challenges faced by students duri
 ## Dashboard on Power BI
 ![PICT_2_page-0001](https://github.com/user-attachments/assets/8457aad7-6caf-4e7c-bb3e-3e7a00342ec8)
 
-![image](https://github.com/user-attachments/assets/1ba9c4e6-1a95-43d5-bb42-07d272b9e574)
+![image](https://github.com/user-attachments/assets/f8ac8839-e52e-4fe7-9193-f2a015a7b4ec)
+
 
 
 ![image](https://github.com/user-attachments/assets/f20ba35d-5c0b-4351-9561-654a1edc5bb2)
